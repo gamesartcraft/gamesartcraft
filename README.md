@@ -1,7 +1,7 @@
-- 👋 Ola, eu sou Lucas(@gamesartcraft).
-- 👀 Eu estou interessado em programas como Vita3k, Cassia, Strato (Nintendo Switch Emulator) e Desenvolver projetos envolvendo GPUs Mali para aprimoralas(ou qualquer outra coisa).
-- 🌱 Eu atualmente estou aprendendo javaScript, Mas pretendo aprender muitas linguagens de programação. Por em quanto eu estou na escola estudando.
-- 💞️ Eu procura colaborar com projetos como Vita3k, Cassia e Strato (Nintendo Switch Emulator) possívelmente posso apoiar outros projetos.
-- 📫 por em quanto não tenho nenhum E-mail de contato.
-- 📖 por em quanto eu não estou mexendo com essas coisas no momento, pois eu ainda estou na escola, mas pretendo muito MESMO contribuir e ajudar a melhorar esses projetos citado antes, e pretendo eu mesmo fazer os meus projetos contribuindo com a comunidade de mods.
-- 🙂 possívelmente eu deixe este repositório atualizado com mais informações.
+- 👋 Hi, I'm Lucas (@gamesartcraft).
+- 👀 I'm interested in programs like Vita3k, Cassia, Strato (Nintendo Switch Emulator) and Develop projects involving Mali GPUs for improvements (or anything else).
+- 🌱 I'm currently learning JavaScript, but I plan to learn many programming languages. For as long as I've been at school studying.
+- 💞️ I try to collaborate with projects like Vita3k, Cassia and Strato (Nintendo Switch Emulator) and I can possibly support other projects.
+- 📫 For now I don't have any contact email.
+- 📖 However, I'm not working with these things at the moment, as I'm still at school, but I really intend to contribute and help improve these projects mentioned before, and I intend to make my projects myself by contributing to the modding community .
+- 🙂 I may update this repository with more information.
