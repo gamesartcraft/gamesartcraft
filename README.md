@@ -4,3 +4,4 @@
 - 💞️ Eu procura colaborar com projetos como Vita3k, Cassia e Strato (Nintendo Switch Emulator) possívelmente posso apoiar outros projetos.
 - 📫 por em quanto não tenho nenhum E-mail de contato.
 - 📖 por em quanto eu não estou mexendo com essas coisas no momento, pois eu ainda estou na escola, mas pretendo muito MESMO contribuir e ajudar a melhorar esses projetos citado antes, e pretendo eu mesmo fazer os meus projetos contribuindo com a comunidade de mods.
+- 🙂 possívelmente eu deixe este repositório atualizado com mais informações e possívelmente com um E-mail de contato
